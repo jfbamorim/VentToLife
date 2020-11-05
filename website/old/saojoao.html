@@ -1,0 +1,44 @@
+{% extends '../old/forumv2.html' %}
+{% block title %}<title>São João, Porto</title>{% endblock %}
+{% block content %}
+    <table border="0" cellspacing="0" cellpadding="5" class="tborder">
+        <thead>
+          <tr>
+            <td class="thead" colspan="5">
+              <div>
+                <strong>Pedidos do Hospital São João</strong><br />
+                <div class="smalltext"></div>
+              </div>
+            </td>
+          </tr>
+        </thead>
+        <tbody style="" id="cat_1_e">
+          <tr>
+            <td class="tcat" colspan="2"><span class="smalltextohne"><strong>Descrição</strong></span></td>
+            <td class="tcat" width="85" align="center" style="white-space: nowrap"><span class="smalltext"><strong>Status</strong></span></td>
+            <td class="tcat" width="85" align="center" style="white-space: nowrap"><span class="smalltext"><strong>Respostas</strong></span></td>
+            <td class="tcat" width="200" align="center"><span class="smalltext"><strong>Útima atualização</strong></span></td>
+          </tr>
+          {% for req in pedidos %}
+              <tr>
+                  <td class="trow1" align="center" width="1">
+                        <span class="forum_status forum_off ajax_mark_read" title="Forum enthält keine neuen Beiträge" id="mark_read_2"></span></td>
+                  <td class="trow1">
+                  <a href="{% url 'website:changerequest' req.id %}"><strong>{{ req.ventilador }}</strong></a>
+                  <div class="smalltextohne">
+                    {{ req.messages }}
+                  </div>
+                </td>
+                <td class="trow1" align="center" style="white-space: nowrap" width="1">{{ req.status }}</td>
+                <td class="trow1" align="center" style="white-space: nowrap">{{ req.answers }}</td>
+                <td class="trow1" align="right" style="white-space: nowrap">
+                  <span class="smalltext">
+                  <strong>Testbeitrag</strong></span>
+                  <span class="smalltextohne">
+                  <br />03-04-2015, 12:16 AM<br />von N00bi</span>
+                </td>
+              </tr>
+        {% endfor %}
+        </tbody>
+      </table>
+{% endblock %}

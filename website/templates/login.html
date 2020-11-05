@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <script src={% static 'js/login.js' %}></script>
+    <meta charset="UTF-8">
+    <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
+    <script src="http://jqueryvalidation.org/files/dist/jquery.validate.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href={% static 'css/login.css' %}>
+    <title>Login</title>
+</head>
+<body>
+    <div class="login-page">
+        <div class="form">
+            {% if messages %}
+              <ul class="messages">
+                {% for message in messages %}
+                    {% if message.level == DEFAULT_MESSAGE_LEVELS.ERROR %}
+                        <div class=" alert alert-danger alert-dismissible">{{ message }}</div>
+                    {% elif message.level == DEFAULT_MESSAGE_LEVELS.SUCCESS %}
+                        <div class=" alert alert-success alert-dismissible">{{ message }}</div>
+                    {% endif %}
+                {% endfor %}
+              </ul>
+            {% endif %}
+            <div align="center">
+                <p class="letra"><img src="../static/assets/img/LOGO_1.jpg" style="text-align: center"><br></p>
+            </div>
+            {% if not user.is_authenticated %}
+                <form id="login" class="login-form" action="{% url 'website:login' %}" method="post">
+                    {% csrf_token %}
+                    {{ form.as_p }}
+                        <input type="text" name="puser" id="puser" placeholder="email"/>
+                        <input type="password" name="ppass" id="ppass" placeholder="password"/><br>
+                        <input id="entrar" type="submit" value="Entrar">
+                        <p class="message">Não está registado? <a href="{% url 'website:index' %}#services">Crie uma conta</a></p>
+                        <p class="message">Não quer fazer login? <a href="{% url 'website:index' %}">Volte atrás</a></p>
+                </form>
+            {% else %}
+                <form action="{% url 'website:forum' %}">
+                    <p>Bem vindo {{ user.username }} !!!</p>
+                    {% csrf_token %}
+                    <label for="sair">
+                        <button><a href="{% url 'website:sair' %}">Logout</a></button>
+                        <br><br>
+                        <button id="login-btn">
+                            <a href="{% url 'website:forum' %}">Forum</a>
+                        </button>
+                    </label>
+                </form>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

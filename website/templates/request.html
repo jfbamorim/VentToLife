@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pedido</title>
+    <link rel="stylesheet" href="../static/css/request.css">
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <script>
+        $( function() {
+            var hospital = [
+                "São João",
+                "Hospital de Braga",
+                "Hospital Pediátrico de Coimbra",
+                "Curry Cabral",
+                "Unidade Local de Saúde da Guarda"
+            ];
+            $( "#hospital" ).autocomplete({
+                source: hospital
+            });
+        } );
+    </script>
+</head>
+<body>
+{% if messages %}
+    <ul class="messages">
+        {% for message in messages %}
+            {% if message.level == DEFAULT_MESSAGE_LEVELS.ERROR %}
+                <div class=" alert alert-danger alert-dismissible">{{ message }}</div>
+            {% endif %}
+        {% endfor %}
+    </ul>
+{% endif %}
+<div class="offset-xl-1 col-xl-6 offset-lg-1 col-lg-10 offset-md-1 col-md-10 col-sm-12 col-12 mt30">
+    <form class="form" action="{% url 'website:pedido' %}" method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <div class="service-form ">
+            <div align="center" class="letra">
+                <img src="../static/assets/img/LOGO_1.jpg" style="text-align: center"><br>
+            </div>
+            <div class="row">
+                {% if user.is_authenticated %}
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 mb10 " align="center">
+                        <h4>Abra o seu pedido de manutenção/reparação de um ventilador</h4>
+                    </div>
+                {% endif %}
+                {% block content %}
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12  " align="center">
+                        <div class="form-group service-form-group">
+                            <label class="control-label sr-only" for="titulo"></label>
+                            <input id="titulo" name="titulo" placeholder="Título" required>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 " align="center">
+                        <div class="form-group service-form-group">
+                            <label class="control-label sr-only" for="hospital"></label>
+                            <input id="hospital" name="hospital" placeholder="Hospital" required>
+                            <datalist id="hospital">
+                                <option value="Curry Cabral"></option>
+                                <option value="São João"></option>
+                                <option value="Hospital de Braga"></option>
+                                <option value="Hospital Pediátrico de Coimbra"></option>
+                                <option value="Unidade Local de Saúde da Guarda"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 " align="center">
+                        <div class="form-group">
+                            <label class="control-label sr-only" for="severidade"></label>
+                            <input list="severidade" name="severidade" placeholder="Severidade" />
+                            <datalist id="severidade">
+                                <option value="Baixa"></option>
+                                <option value="Média"></option>
+                                <option value="Alta"></option>
+                                <option value="Muito Alta"></option>
+                            </datalist>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12  " align="center">
+                        <div class="form-group service-form-group">
+                            <label class="control-label sr-only" for="ventilador"></label>
+                            <input id="ventilador" name="ventilador" placeholder="Ventilador" required>
+                        </div>
+                    </div>
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 " align="center">
+                        <div class="form-group">
+                            <label class="control-label sr-only" for="textarea"></label>
+                            <textarea class="form-control" id="messages" name="messages" rows="4" placeholder="Descrição do pedido"></textarea>
+                        </div>
+                    </div>
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 " align="center">
+                        <button type="submit" name="singlebutton" class="btn btn-default btn-block mb10">Abrir pedido</button><br>
+                        <button type="reset" name="singlebutton" class="btn btn-default btn-block mb10">Apagar Preenchimento</button>
+                        <h6>O seu pedido será atendido e resolvido assim que possível.</h6>
+                        <h6>Não quer abrir um pedido? <a href="{% url 'website:forum' %}">Volte atrás</a></h6>
+                    </div>
+                {% endblock %}
+            </div>
+        </div>
+    </form>
+</div>
+</body>
+</html>

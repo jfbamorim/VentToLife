@@ -1,0 +1,14 @@
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
+    color: #000;
+}
+
+textarea {
+    margin: 2px;
+    width: 1183px;
+    height: 254px;
+}

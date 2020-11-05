@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load crispy_forms_filters %}
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href={% static 'css/hospital.css' %}>
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <title>Registo Técnico/Auxiliar Hospitalar</title>
+    <script>
+        $( function() {
+            var hospital = [
+                "São João",
+                "Hospital de Braga",
+                "Hospital Pediátrico de Coimbra",
+                "Curry Cabral",
+                "Unidade Local de Saúde da Guarda"
+            ];
+        $( "#hospital" ).autocomplete({
+          source: hospital
+        });
+        } );
+    </script>
+</head>
+<body>
+    <div class="login-form">
+        <div class="login-page" align="center">
+            <form method="post" action="{% url 'website:hospital' %}" class="form" id="form">
+                {% if messages %}
+                  <ul class="messages">
+                    {% for message in messages %}
+                        {% if message.level == DEFAULT_MESSAGE_LEVELS.ERROR %}
+                            <div class=" alert alert-danger alert-dismissible">{{ message }}</div>
+                        {% elif message.level == DEFAULT_MESSAGE_LEVELS.SUCCESS %}
+                            <div class=" alert alert-success alert-dismissible">{{ message }}</div>
+                        {% endif %}
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+                <div align="center">
+                    <a href="{% url 'website:index' %}" class="letra"><img src="../static/assets/img/LOGO_1.jpg"
+                                          alt="" style="text-align: center"><br>
+                        <a>Registe-se como um técnico de saúde pronto a reportar problemas com os ventiladores<br></a>
+                    </a>
+                </div><br>
+                {% csrf_token %}
+                {{ form.as_p }}
+                {{ form|crispy }}
+                <div class="form-row">
+                    <div class="form-group column">
+                        <div class="form-input">
+                            <input type="text" name="first_name" id="first_name" placeholder="Nome Próprio" required/>
+                        </div>
+                        <div class="form-input">
+                            <input type="text" name="last_name" id="last_name" placeholder="Apelido" required/>
+                        </div>
+                        <div class="form-input">
+                            <input type="text" name="nif" id="nif" placeholder="NIF" required/>
+                        </div>
+                        <div class="form-input">
+                            <input type="text" name="hospital" id="hospital" placeholder="Hospital" required/>
+                            <datalist id="hospital">
+                                <option value="Curry Cabral"></option>
+                                <option value="São João"></option>
+                                <option value="Hospital de Braga"></option>
+                                <option value="Hospital Pediátrico de Coimbra"></option>
+                                <option value="Unidade Local de Saúde da Guarda"></option>
+                            </datalist>
+                        </div>
+                        <div class="form-input">
+                            <input type="text" name="phone_number" id="phone_number" placeholder="Contacto" />
+                        </div>
+                        <div class="form-input">
+                            <input type="text" name="email" id="email" placeholder="Email" required/>
+                        </div>
+                        <div class="form-input">
+                            <input list="state" name="state" placeholder="Cidade" required/>
+                            <datalist id="state">
+                                <option value="Lisboa"></option>
+                                <option value="Porto"></option>
+                                <option value="Braga"></option>
+                                <option value="Coimbra"></option>
+                                <option value="Guarda"></option>
+                            </datalist>
+                        </div>
+                        <div class="form2-group column-pass">
+                            <div class="form-input">
+                                <input type="password" name="password" id="password"
+                                       placeholder="Password" required>
+                            </div>
+                        </div>
+                        <div class="form2-group column-pass">
+                            <div class="form-input" column>
+                                <input type="password" name="repeat_password" id="repeat_password"
+                                       placeholder="Confirme a password" required>
+                            </div>
+                        </div>
+                        <div class="g-recaptcha" data-sitekey = "6LenGvMUAAAAALfHxZdqcyBPwhsZtQIOjM-OwciQ"></div>
+                </div><br>
+                <div class="form-submit">
+                    <input type="submit" value="Submit" class="submit" id="submit" name="submit" />
+                    <input type="reset" value="Reset" class="submit" id="reset" name="reset" />
+                    <input type="button" onclick="history.back();" value="Back">
+                </div>
+              </div>
+            </form>
+        </div>
+    </div>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</body>
+</html>

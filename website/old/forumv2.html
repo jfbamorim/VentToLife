@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Inspiração https://codepen.io/Shinae/pen/myGNxq -->
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% block title %}<title>VentToLife - Forum</title>{% endblock %}
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/forumv2.css' %}">
+  </head>
+  <body>
+    <div id="container">
+    <a name="top" id="top"></a>
+    <div id="header">
+    <div id="logo">
+      <div class="wrapper">
+        <a href="forumv2.html">
+            <img src="../static/assets/img/LOGO_1.jpg" class="center" href="forumv2.html" alt=""/>
+        </a>
+        <ul class="menu top_links">
+          <li>Bem vindo, {{ user }}</li>
+          <li>
+              <a href="{% url 'website:pedido' %}">
+                  Novo Pedido
+              </a>
+          </li>
+          <li>
+              <a class="news" href="https://jornaleconomico.sapo.pt/noticias/covid-19-10-hospitais-preparados-para-receber-casos-em-portugal-555413" target="_blank">
+                Hospitais onde operamos
+              </a>
+          </li>
+          <li>
+              <a href="https://covid19.min-saude.pt" target="_blank">
+                Informações DGS
+              </a>
+          </li>
+          <li>
+            <a href="https://www.medicina.ulisboa.pt/covid-19-informacoes-uteis" target="_blank">
+              Links importantes
+            </a>
+          </li>
+          <li>
+              <a href="{% url 'website:sair' %}">
+                  Sair
+              </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div id="content">
+    <div class="wrapper">
+      <br />
+      {% block content %}
+          <table border="0" cellspacing="0" cellpadding="5" class="tborder">
+            <thead>
+              <tr>
+                <td class="thead" colspan="5">
+                  <div>
+                    <strong>Hospitais</strong><br />
+                    <div class="smalltext"></div>
+                  </div>
+                </td>
+              </tr>
+            </thead>
+            <tbody style="" id="cat_1_e">
+              <tr>
+                <td class="tcat" colspan="2"><span class="smalltextohne"><strong>Descrição</strong></span></td>
+                <td class="tcat" width="85" align="center" style="white-space: nowrap"><span class="smalltext"><strong>Pedidos</strong></span></td>
+                <td class="tcat" width="85" align="center" style="white-space: nowrap"><span class="smalltext"><strong>Respostas</strong></span></td>
+                <td class="tcat" width="200" align="center"><span class="smalltext"><strong>Útima atualização</strong></span></td>
+              </tr>
+              <tr>
+                <td class="trow1" align="center" width="1">
+                    <span class="forum_status forum_off ajax_mark_read" title="Forum enthält keine neuen Beiträge" id="mark_read_2">
+
+                    </span></td>
+                <td class="trow1">
+                  <a href="{% url 'website:saojoao'%}"><strong>Hospital São João</strong></a>
+                  <div class="smalltextohne">
+                    Todos os pedidos referentes ao Hospital São João, no Porto
+                  </div>
+                </td>
+                <td class="trow2" align="center" style="white-space: nowrap">0</td>
+                <td class="trow2" align="center" style="white-space: nowrap">0</td>
+                <td class="trow2" align="right" style="white-space: nowrap">
+                <div style="text-align: center;">N/A</div>
+              </tr>
+              <tr>
+                <td class="trow2" align="center" width="1"><span class="forum_status forum_off ajax_mark_read" title="Forum enthält keine neuen Beiträge" id="mark_read_7"></span></td>
+                <td class="trow2">
+                  <a href="{% url 'website:hospbraga' %}"><strong>Hospital de Braga</strong></a>
+                  <div class="smalltextohne">
+                      Todos os pedidos referentes ao Hospital de Braga, em Braga
+                  </div>
+                </td>
+                <td class="trow2" align="center" style="white-space: nowrap">0</td>
+                <td class="trow2" align="center" style="white-space: nowrap">0</td>
+                <td class="trow2" align="right" style="white-space: nowrap">
+                  <div style="text-align: center;">N/A</div>
+                </td>
+              </tr>
+              <tr>
+                <td class="trow1" align="center" width="1"><span class="forum_status forum_off ajax_mark_read" title="Forum enthält keine neuen Beiträge" id="mark_read_11"></span></td>
+                <td class="trow1">
+                  <a href="{% url 'website:currycabral' %}"><strong>Hospital Curry Cabral</strong></a>
+                  <div class="smalltextohne">
+                      Todos os pedidos referentes ao Hospital Curry Cabral, em Lisboa
+                  </div>
+                </td>
+                <td class="trow2" align="center" style="white-space: nowrap">0</td>
+                <td class="trow2" align="center" style="white-space: nowrap">0</td>
+                <td class="trow2" align="right" style="white-space: nowrap">
+                <div style="text-align: center;">N/A</div>
+              </tr>
+              <tr>
+                <td class="trow2" align="center" width="1"><span class="forum_status forum_off ajax_mark_read" title="Forum enthält keine neuen Beiträge" id="mark_read_12"></span></td>
+                <td class="trow2">
+                  <a href="{% url 'website:hpcoimbra' %}"><strong>Hospital Pediátrico de Coimbra</strong></a>
+                  <div class="smalltextohne">
+                    Todos os pedidos referentes ao Hospital Pediátrico de Coimbra, em Coimbra
+                  </div>
+                </td>
+                <td class="trow2" align="center" style="white-space: nowrap">0</td>
+                <td class="trow2" align="center" style="white-space: nowrap">0</td>
+                <td class="trow2" align="right" style="white-space: nowrap">
+                <div style="text-align: center;">N/A</div>
+              </tr>
+              <tr>
+              <td class="trow2" align="center" width="1"><span class="forum_status forum_off ajax_mark_read" title="Forum enthält keine neuen Beiträge" id="mark_read_22"></span></td>
+              <td class="trow2">
+              <a href="{% url 'website:ulsguarda' %}"><strong>Unidade Local de Saúde de Guarda</strong></a>
+                  <div class="smalltextohne">
+                      Todos os pedidos referentes à Unidade Local de Saúde de Guarda, na Guarda
+                  </div>
+              </td>
+              <td class="trow2" align="center" style="white-space: nowrap">0</td>
+              <td class="trow2" align="center" style="white-space: nowrap">0</td>
+              <td class="trow2" align="right" style="white-space: nowrap">
+              <div style="text-align: center;">N/A</div>
+              </tr>
+            </tbody>
+          </table>
+        {% endblock %}
+      <br />
+      <br />
+      <br class="clear" />
+      </div>
+      </div>
+      <div id="footer">
+        <div class="lower">
+          <div class="wrapper">
+            <span id="copyright">
+              <!-- MyBB is free software developed and maintained by a volunteer community.
+                It would be much appreciated by the MyBB Group if you left the full copyright and "powered by" notice intact,
+                to show your support for MyBB.  If you choose to remove or modify the copyright below,
+                you may be refused support on the MyBB Community Forums.
+                This is free software, support us and we'll support you. -->
+              <!-- End powered by -->
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end: footer -->
+    <!-- end: index -->
+    </div>
+  </body>
+</html>

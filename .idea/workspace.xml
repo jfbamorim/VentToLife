@@ -1,0 +1,1496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30840b7b-f7c1-452d-98e9-5f4290b0b635" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../Cursos/Python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Cursos/Python/input_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Cursos/PythonDjango/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Cursos/PythonDjango/core/static/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Cursos/PythonDjango/core/static/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Cursos/PythonDjango/core/templates/contacto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Cursos/PythonDjango/core/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Cursos/PythonDjango/core/templates/produto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../DjangoProject/sitepr/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/Aula2/CorridaCavalo/Cavalo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/Aula2/CorridaCavalo/Janela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/Aula2/CorridaCavalo/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/Aula2/EscritaCorrente/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/Aula2/EscritaCorrente/NameThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/Aula3/ContaBancaria/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/Aula3/ContaBancaria/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/Aula3/ContaBancaria/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/Aula3/Contador/Contador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/Aula3/Contador/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/Aula3/Contador/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/Aula3/Pilha/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/Aula3/Pilha/Pilha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/Aula3/Pilha/PilhaThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/client/ClientGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/client/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri20Oct2017073846GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri20Oct2017074200GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri20Oct2017090000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri20Oct2017093556GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri20Oct2017114546GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri20Oct2017120151GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri20Oct2017140000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri20Oct2017170000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri20Oct2017171716GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri20Oct2017175454GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri20Oct2017210000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017001825GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017013305GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017020006GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017030846GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017044054GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017055225GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017060000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017070000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017071629GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017072351GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017072756GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017073633GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017073716GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017074707GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017080000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017080140GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017081052GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017081633GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017082101GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017082736GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017083453GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017083818GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017084842GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017085642GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017090555GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017090718GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017091034GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017092730GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017092953GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017093209GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017093413GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017100000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017100709GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017101929GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017103749GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017103917GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017105519GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017110000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017111824GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017112700GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017113232GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017113428GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017114240GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017114430GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017120101GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017120628GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017125352GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017125503GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017125916GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017130000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017130420GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017131127GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017132310GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017132922GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017135254GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017135913GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017140000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017140033GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017140120GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017140701GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017141306GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017141506GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017141704GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017142606GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017143300GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017144201GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017145121GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017145748GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017150221GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017150346GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017150920GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017151158GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017152045GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017152800GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017153558GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017153658GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017153957GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017155617GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017160636GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017160711GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017160822GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017161330GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017161643GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017162327GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017163359GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017165336GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017165426GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017165557GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017170000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017172315GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017173223GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017174550GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017180000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017180540GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017183954GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017184533GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017185439GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017192539GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017195642GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017200221GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017200856GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017204538GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017210000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017214305GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017221435GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017223021GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Fri27Oct2017224819GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017070000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017071434GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017071943GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017072149GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017073138GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017074611GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017074944GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017075519GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017075848GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017080000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017080228GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017080507GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017093357GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017094511GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017100254GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017105200GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017110000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017110505GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017110847GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017112237GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017115109GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017120000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017120633GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017130134GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017130931GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017131507GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017131949GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017133105GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017133303GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017133309GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017133838GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017134527GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017140018GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017140307GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017142745GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017143038GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017143749GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017144620GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017145325GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017150209GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017150216GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017150300GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017150809GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017152025GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017152103GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017154356GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017155922GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017160332GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017160800GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017161350GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017161449GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017162138GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017162150GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017163212GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017163920GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017165304GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017165325GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017165931GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017170000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017170948GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017172308GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017180000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017180040GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017183016GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017190138GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017193044GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017193308GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017195047GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017200000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017200030GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017200213GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017200934GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017201411GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017201954GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017203001GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017203045GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017203309GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017205841GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017210000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017210334GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017213008GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017220033GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Mon23Oct2017223019GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017090000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017092321GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017095240GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017100309GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017101319GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017102813GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017105012GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017110000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017111058GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017113306GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017114400GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017115648GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017154803GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017155926GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat21Oct2017160000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017001016GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017011613GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017022137GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017030000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017032946GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017043804GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017050345GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017060035GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017085709GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017085940GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017090000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017090417GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017090902GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017091351GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017094547GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017095034GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017095343GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017095731GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017100000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017104238GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017105252GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017110000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017112708GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017113919GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017122502GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017131303GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017131829GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017140023GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017141157GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017142711GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017144026GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017145251GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017153417GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017160000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017160318GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017160344GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017161857GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017162903GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017165609GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017172937GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017185404GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017193249GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017200000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017201258GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017201605GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017201833GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017202952GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017203411GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017203504GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017210433GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017212821GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017215105GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sat28Oct2017230045GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017010043GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017030027GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017090000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017092854GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017093146GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017094754GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017100620GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017101136GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017115511GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017120000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017130000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017132715GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017135550GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017135637GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017143122GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017143338GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017160801GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017161316GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017165714GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017170016GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017171848GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017175100GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017180214GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017190000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017194500GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017203015GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017210126GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017211134GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017212634GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017212909GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun22Oct2017221333GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun29Oct2017020009GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun29Oct2017020031GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun29Oct2017030018GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun29Oct2017040005GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun29Oct2017070000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Sun29Oct2017070055GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017060011GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017070000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017071942GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017072243GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017074034GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017074656GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017074911GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017075143GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017080000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017080015GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017080222GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017080552GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017080826GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017082625GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017083113GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017083521GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017084021GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017084243GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017085101GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017085951GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017090000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017090811GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017091055GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017091433GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017093532GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017094005GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017094356GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017094751GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017095035GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017095230GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017095634GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017100000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017101126GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017101452GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017102144GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017103112GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017105110GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017105837GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017110407GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017112015GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017112036GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017112131GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017113354GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017113408GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017115513GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017115557GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017120055GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017120607GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017122012GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017130000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017130921GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017131319GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017132734GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017132949GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017133958GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017134100GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017135053GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017135705GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017140453GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017141247GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017141859GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017142327GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017142351GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017144135GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017144623GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017145121GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017145325GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017151108GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017153645GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017155353GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017155753GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017160311GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017161146GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017161343GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017163232GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017163615GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017165202GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017165846GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017170000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017170128GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017170649GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017171455GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017172244GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017173835GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017174846GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017180000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017180018GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017181450GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017185110GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017190939GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017191632GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017193302GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017200000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017200124GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017201757GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017203700GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017204056GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017213124GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017213741GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017214629GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017215709GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017215744GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Thu26Oct2017230119GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017000000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017010015GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017020049GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017030003GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017040010GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017050015GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017060042GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017070000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017070752GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017071740GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017072445GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017073147GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017073937GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017074615GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017080000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017080236GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017081023GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017081515GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017082101GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017082708GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017083227GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017083716GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017084411GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017085048GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017090000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017090036GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017090047GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017091248GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017092220GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017092411GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017092813GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017093342GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017094302GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017095000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017095134GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017095229GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017100408GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017101638GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017102424GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017102800GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017103439GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017104412GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017104810GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017104912GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017105519GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017105555GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017110000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017110500GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017110630GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017111125GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017111213GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017111807GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017112417GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017113843GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017114200GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017114235GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017115446GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017120000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017120027GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017120054GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017122830GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017124737GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017125049GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017130013GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017130200GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017131119GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017131316GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017131642GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017131932GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017132353GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017132554GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017132756GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017134622GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017135305GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017135740GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017140000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017140102GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017140740GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017141338GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017141621GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017141938GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017142339GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017142808GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017142931GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017150205GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017153357GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017154750GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017155048GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017160806GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017161219GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017162723GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017162727GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017163517GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017163904GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017164207GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017164402GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017164521GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017165007GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017170000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017170345GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017171748GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017172229GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017174756GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017175255GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017180000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017180237GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017180928GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017182050GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017182623GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017183009GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017183741GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017192434GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017200000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017201739GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017202210GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017205006GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017205333GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017210018GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017210622GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017210949GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017211509GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017211802GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017212230GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017212551GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017214133GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017215043GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017215658GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017220006GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Tue24Oct2017220643GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017070000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017073435GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017073905GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017074345GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017080000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017080015GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017080253GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017080636GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017081157GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017081452GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017081910GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017082343GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017082849GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017083013GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017083559GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017083718GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017084557GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017090000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017090024GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017090355GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017091802GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017092555GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017093143GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017093408GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017093811GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017095124GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017095951GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017100000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017102003GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017102653GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017103152GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017103635GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017104327GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017104806GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017105541GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017110000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017110100GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017110208GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017110828GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017111326GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017111902GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017112524GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017114456GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017115841GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017120743GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017122500GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017124701GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017125757GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017125947GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017130000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017131051GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017131657GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017132227GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017132231GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017133823GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017140631GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017141511GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017142139GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017143253GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017143603GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017144832GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017145228GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017150342GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017151348GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017151631GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017151814GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017152517GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017153109GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017153634GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017154934GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017155808GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017160000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017160224GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017162828GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017164538GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017164929GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017170000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017172609GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017173847GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017174248GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017175209GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017175819GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017180000GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017180309GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017181400GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017182211GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017184031GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017185559GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017185957GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017190218GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017191501GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017204106GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017211110GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017212158GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017212948GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017213944GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017215107GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017215600GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017221041GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017221616GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017223145GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017223342GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017223737GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017224125GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017224533GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017224957GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017225254GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017225744GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017230058GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/news/Wed25Oct2017230520GMT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/server/News.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/utils/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/utils/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/utils/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/worker/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/worker/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ISCTE - Segundo Semestre/PCD/PCD/ProjetoFinal/Googlalhes2019/worker/WorkerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetoFinal/ProjetoFinal/ProjetoFinal/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetoFinal/ProjetoFinal/ProjetoFinal/static/css/teste.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetoFinal/ProjetoFinal/ProjetoFinal/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetoFinal/ProjetoFinal/ProjetoFinal/static/js/teste.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetoFinal/ProjetoFinal/ProjetoFinal/templates/hospitais.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetoFinal/ProjetoFinal/ProjetoFinal/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetoFinal/ProjetoFinal/ProjetoFinal/templates/tecnicos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjetoFinal/ProjetoFinal/ProjetoFinal/templates/teste.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IconEmpresa.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IconHospital.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VentToLife/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VentToLife/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VentToLife/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VentToLife/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VentToLife/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0002_auto_20200428_2324.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0003_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0004_auto_20200501_2218.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0005_auto_20200501_2309.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0006_auto_20200501_2339.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0007_auto_20200502_0014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0008_auto_20200502_1625.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0009_auto_20200503_2239.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0010_auto_20200504_1827.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0011_pedido.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0012_pedido_status.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0013_auto_20200505_2229.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0014_pedido_date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0015_delete_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0016_city_hospitalname.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0017_pedido_answers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0018_auto_20200510_0305.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0019_resposta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0020_auto_20200512_0037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/0021_auto_20200513_0218.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/old/answers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/old/currycabral.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/old/forumv2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/old/forumv2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/old/hospbraga.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/old/hpcoimbra.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/old/saojoao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/old/ulsguarda.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/LOGO_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/new_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/portfolio/fullsize/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/portfolio/fullsize/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/portfolio/fullsize/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/portfolio/fullsize/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/portfolio/fullsize/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/portfolio/fullsize/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/portfolio/fullsize/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/portfolio/thumbnails/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/portfolio/thumbnails/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/portfolio/thumbnails/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/portfolio/thumbnails/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/portfolio/thumbnails/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/portfolio/thumbnails/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/renamed_bg-masthead.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/assets/img/venttolife.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/css/changerequest.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/css/hospital.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/css/newforum.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/css/newsaojoao.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/css/post.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/css/request.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/css/technical.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/changerequest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/hospital.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/newcurrycabral.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/newforum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/newhospbraga.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/newhpcoimbra.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/newsaojoao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/newulsguarda.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/technical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="VentToLife" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/templates/post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/templates/technical.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="54" column="57" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/templates/newcurrycabral.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VentToLife/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VentToLife/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2025">
+              <caret line="135" column="65" selection-start-line="135" selection-start-column="65" selection-end-line="135" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/website/templates/request.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="75" column="35" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/templates/hospital.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1185">
+              <caret line="79" column="60" selection-start-line="79" selection-start-column="60" selection-end-line="79" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/templates/changerequest.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lower</find>
+      <find>#footer</find>
+      <find>content</find>
+      <find>cat_1</find>
+      <find>#0072BC</find>
+      <find>a:visited</find>
+      <find>text-deco</find>
+      <find>logo</find>
+      <find>img</find>
+      <find>#logo</find>
+      <find>select</find>
+      <find>table</find>
+      <find>email</find>
+      <find>class</find>
+      <find>FORUM ca</find>
+      <find>.bg-info</find>
+      <find>#17a2b8!important</find>
+      <find>board</find>
+      <find>h5 mb-0</find>
+      <find>#007bff</find>
+      <find>17a2b8</find>
+      <find>h1</find>
+      <find>menu</find>
+      <find>footer</find>
+      <find>button</find>
+      <find>a {</find>
+      <find>BTN-PRIMARY</find>
+      <find>btn-primary</find>
+      <find>btn.</find>
+      <find>btn-</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/website/templates/asdas.html" />
+        <option value="$PROJECT_DIR$/website/static/css/index.css" />
+        <option value="$PROJECT_DIR$/website/static/js/index.js" />
+        <option value="$PROJECT_DIR$/website/static/css/login.css" />
+        <option value="$PROJECT_DIR$/website/templates/hospbraga.html" />
+        <option value="$PROJECT_DIR$/website/templates/forum.html" />
+        <option value="$PROJECT_DIR$/website/static/css/forum.css" />
+        <option value="$PROJECT_DIR$/website/static/css/request.css" />
+        <option value="$PROJECT_DIR$/website/static/js/request.js" />
+        <option value="$PROJECT_DIR$/website/static/js/register.js" />
+        <option value="$PROJECT_DIR$/website/templates/hpcoimbra.html" />
+        <option value="$PROJECT_DIR$/website/templates/index.html" />
+        <option value="$PROJECT_DIR$/website/templates/currycabral.html" />
+        <option value="$PROJECT_DIR$/website/templates/answers.html" />
+        <option value="$PROJECT_DIR$/website/templates/saojoao.html" />
+        <option value="$PROJECT_DIR$/website/static/css/saojoao.css" />
+        <option value="$PROJECT_DIR$/website/static/css/hospital.css" />
+        <option value="$PROJECT_DIR$/website/static/css/technical.css" />
+        <option value="$PROJECT_DIR$/website/static/js/login.js" />
+        <option value="$PROJECT_DIR$/website/static/css/changerequest.css" />
+        <option value="$PROJECT_DIR$/VentToLife/urls.py" />
+        <option value="$PROJECT_DIR$/website/templates/changerequest.html" />
+        <option value="$PROJECT_DIR$/website/templates/teste.html" />
+        <option value="$PROJECT_DIR$/website/templates/forumv2.html" />
+        <option value="$PROJECT_DIR$/website/templates/ulsguarda.html" />
+        <option value="$PROJECT_DIR$/website/static/css/teste.css" />
+        <option value="$PROJECT_DIR$/website/static/css/forumv2.css" />
+        <option value="$PROJECT_DIR$/website/static/css/newforum.css" />
+        <option value="$PROJECT_DIR$/website/templates/newhospbraga.html" />
+        <option value="$PROJECT_DIR$/website/templates/newhpcoimbra.html" />
+        <option value="$PROJECT_DIR$/website/templates/newsaojoao.html" />
+        <option value="$PROJECT_DIR$/website/templates/newulsguarda.html" />
+        <option value="$PROJECT_DIR$/website/static/css/newsaojoao.css" />
+        <option value="$PROJECT_DIR$/website/models.py" />
+        <option value="$PROJECT_DIR$/website/urls.py" />
+        <option value="$PROJECT_DIR$/website/templates/login.html" />
+        <option value="$PROJECT_DIR$/website/templates/post.html" />
+        <option value="$PROJECT_DIR$/website/static/css/post.css" />
+        <option value="$PROJECT_DIR$/VentToLife/settings.py" />
+        <option value="$PROJECT_DIR$/website/views.py" />
+        <option value="$PROJECT_DIR$/website/forms.py" />
+        <option value="$PROJECT_DIR$/website/templates/newforum.html" />
+        <option value="$PROJECT_DIR$/website/templates/newcurrycabral.html" />
+        <option value="$PROJECT_DIR$/website/templates/hospital.html" />
+        <option value="$PROJECT_DIR$/website/templates/technical.html" />
+        <option value="$PROJECT_DIR$/website/templates/request.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="8" />
+    <option name="y" value="23" />
+    <option name="width" value="1432" />
+    <option name="height" value="825" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VentToLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VentToLife" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VentToLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VentToLife" type="462c0819:PsiDirectoryNode" />
+              <item name="VentToLife" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VentToLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VentToLife" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VentToLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VentToLife" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VentToLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VentToLife" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="old" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VentToLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VentToLife" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VentToLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VentToLife" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VentToLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VentToLife" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VentToLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VentToLife" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/website/old" />
+      <recent name="$PROJECT_DIR$/website/old_templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="VentToLife" type="Python.DjangoServer" factoryName="Django server">
+      <module name="VentToLife" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30840b7b-f7c1-452d-98e9-5f4290b0b635" name="Default Changelist" comment="" />
+      <created>1588108498391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588108498391</updated>
+      <workItem from="1588108501991" duration="7646000" />
+      <workItem from="1588121141619" duration="4594000" />
+      <workItem from="1588154573913" duration="19026000" />
+      <workItem from="1588350975446" duration="24647000" />
+      <workItem from="1588421572741" duration="1047000" />
+      <workItem from="1588422730750" duration="9486000" />
+      <workItem from="1588544981784" duration="15658000" />
+      <workItem from="1588635885272" duration="27239000" />
+      <workItem from="1589046047022" duration="27859000" />
+      <workItem from="1589123791041" duration="83834000" />
+      <workItem from="1589723038841" duration="970000" />
+      <workItem from="1590000806203" duration="1613000" />
+      <workItem from="1590196313173" duration="198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="223817000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="8" y="23" width="1432" height="825" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49717513" visible="true" weight="0.3705036" />
+      <window_info id="Structure" order="1" sideWeight="0.50282484" side_tool="true" weight="0.35539567" />
+      <window_info id="Favorites" order="2" sideWeight="0.50282484" side_tool="true" weight="0.35539567" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292517" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3287858" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50073636" side_tool="true" weight="0.28939828" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4992636" weight="0.2755798" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3292517" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3294964" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/website/migrations/0003_users.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0004_auto_20200501_2218.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0005_auto_20200501_2309.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0006_auto_20200501_2339.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0007_auto_20200502_0014.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0008_auto_20200502_1625.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0009_auto_20200503_2239.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0010_auto_20200504_1827.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0011_pedido.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0012_pedido_status.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0013_auto_20200505_2229.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0014_pedido_date.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0015_delete_users.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0016_city_hospitalname.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0017_pedido_answers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0018_auto_20200510_0305.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0019_resposta.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0020_auto_20200512_0037.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0021_auto_20200513_0218.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0022_pedido_titulo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0023_remove_pedido_status.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0025_auto_20200514_1213.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/migrations/0024_auto_20200514_0134.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/static/css/newforum.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="2538" selection-start-line="2538" selection-end-line="2538" />
+          <folding>
+            <element signature="e#94395#94639#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/static/js/login.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="80" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/static/css/newsaojoao.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="2524" column="14" selection-start-line="2524" selection-start-column="14" selection-end-line="2524" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/static/css/post.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/static/css/hospital.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="109" selection-start-line="18" selection-start-column="109" selection-end-line="18" selection-end-column="109" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="70" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/templates/newforum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/templates/newhospbraga.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/templates/newhpcoimbra.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/templates/newsaojoao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/templates/newulsguarda.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/templates/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/templates/technical.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="57" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/templates/newcurrycabral.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VentToLife/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VentToLife/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="135" column="65" selection-start-line="135" selection-start-column="65" selection-end-line="135" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/templates/hospital.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="60" selection-start-line="79" selection-start-column="60" selection-end-line="79" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/templates/changerequest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/templates/request.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="75" column="35" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

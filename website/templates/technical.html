@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load crispy_forms_filters %}
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="{% static 'css/technical.css' %}">
+    <title>Registo Técnicos</title>
+</head>
+<body>
+<div class="login-form">
+    <div class="login-page" align="center">
+        <form method="post" action="{% url 'website:technical' %}" class="form" id="form">
+            {{ form|crispy }}
+            {% if messages %}
+                <ul class="messages">
+                    {% for message in messages %}
+                        {% if message.level == DEFAULT_MESSAGE_LEVELS.ERROR %}
+                            <div class=" alert alert-danger alert-dismissible">{{ message }}</div>
+                        {% elif message.level == DEFAULT_MESSAGE_LEVELS.SUCCESS %}
+                            <div class=" alert alert-success alert-dismissible">{{ message }}</div>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            {% endif %}
+            <div align="center">
+                <a href="{% url 'website:index' %}" class="letra"><img src="../static/assets/img/LOGO_1.jpg"
+                                                                       alt="" style="text-align: center"><br>
+                    <a>Registe-se como um técnico experiente em reparações e/ou manutenções</a>
+                </a>
+            </div><br>
+            {% csrf_token %}
+            {{ form.as_p }}
+
+            <div class="form-row">
+                <div class="form-group column">
+                    <div class="form-input">
+                        <input type="text" name="first_name" id="first_name" placeholder="Nome Próprio" required/>
+                    </div>
+                    <div class="form-input">
+                        <input type="text" name="last_name" id="last_name" placeholder="Apelido" required/>
+                    </div>
+                    <div class="form-input">
+                        <input type="text" name="nif" id="nif" placeholder="NIF" required/>
+                    </div>
+                    <div class="form-input">
+                        <input type="text" name="phone_number" id="phone_number" placeholder="Contacto"/>
+                    </div>
+                    <div class="form-input">
+                        <input type="email" name="email" id="email" placeholder="Email" required/>
+                    </div>
+                    <div class="form-input">
+                        <input list="state" name="state" placeholder="Cidade"/>
+                        <datalist id="state">
+                            <option value="Lisboa"></option>
+                            <option value="Porto"></option>
+                            <option value="Braga"></option>
+                            <option value="Coimbra"></option>
+                            <option value="Guarda"></option>
+                        </datalist>
+                    </div>
+                    <div class="form-input">
+                        <input type="text" name="compname" id="compname" placeholder="Nome Empresa" required/>
+                    </div>
+                    <div class="form2-group column-pass">
+                        <div class="form-input">
+                            <input type="password" name="password" id="password" placeholder="Password" required>
+                        </div>
+                    </div>
+                    <div class="form2-group column-pass">
+                        <div class="form-input" column>
+                            <input type="password" name="repeat_password" id="repeat_password"
+                                   placeholder="Confirme a password" required>
+                        </div>
+                    </div>
+                    <div class="g-recaptcha" data-sitekey = "6LenGvMUAAAAALfHxZdqcyBPwhsZtQIOjM-OwciQ"></div>
+                </div><br>
+                <div class="form-submit">
+                    <input type="submit" value="Submit" class="submit" id="submit" name="submit" />
+                    <input type="reset" value="Reset" class="submit" id="reset" name="reset" />
+                    <input type="button" onclick="history.back();" value="Back">
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</body>
+</html>

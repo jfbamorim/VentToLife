@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{% static 'css/newforum.css' %}">
+    <title>Forum - Vent2Life </title>
+</head>
+<body>
+<nav class="navbar navbar-dark bg-dark">
+    <div class="container">
+        <h1><a href="index.html" class="navbar-brand">
+            <img src="../static/assets/img/LOGO_1.jpg" alt=""/>
+        </a></h1>
+        <button class="btn btn-sm btn-primary">
+            <a href="{% url 'website:sair' %}">Terminar sessão</a>
+        </button>
+    </div>
+</nav>
+<div class="container my-3">
+    <strong><a class="user_login"> Bem-vindo/a {{ user.first_name }} </a></strong><br>
+    <div class="row">
+        <div class="col-12 col-xl-9">
+            <h2 class="h4 bg-info mb-0 p-4 rounded-top"><a class="text-white">
+                Vent2Life - Forum para resolução de problemas com ventiladores
+            </a></h2>
+            <table class="table table-striped table-bordered table-responsive">
+                <thead class="thead-light">
+                <tr>
+                    <th scope="col" class="forum-col">Forum</th>
+                    <th scope="col" class="last-post-col">Número Pedidos</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>
+                        <h3 class="h6 mb-0"><a href="{% url 'website:saojoao'%}">Hospital São João</a></h3>
+                        <p class="mb-0">
+                            Todos os pedidos referentes ao Hospital São João, no Porto.
+                        </p>
+                    </td>
+                    <td>
+                        <div>{{ saojoao }}</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h3 class="h6 mb-0"><a href="{% url 'website:hpcoimbra'%}">Hospital Pediátrico de Coimbra</a></h3>
+                        <p class="mb-0">
+                            Todos os pedidos referentes ao Hospital Pediátrico de Coimbra, em Coimbra.
+                        </p>
+                    </td>
+                    <td>
+                        <div>{{ hpcoimb }}</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h3 class="h6 mb-0"><a href="{% url 'website:hospbraga'%}">Hospital de Braga</a></h3>
+                        <p class="mb-0">Todos os pedidos referentes ao Hospital de Braga, em Braga.</p>
+                    </td>
+                    <td>
+                        <div>{{ hsbraga }}</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h3 class="h6 mb-0">
+                            <a href="{% url 'website:ulsguarda'%}">Unidade Hospitalar de Saúde da Guarda</a>
+                        </h3>
+                        <p class="mb-0">
+                            Todos os pedidos referentes à Unidade Hospitalar de Saúde da Guarda, na Guarda.
+                        </p>
+                    </td>
+                    <td>
+                        <div>{{ uslguar }}</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h3 class="h6 mb-0"><a href="{% url 'website:currycabral' %}">Hospital Curry Cabral</a></h3>
+                        <p class="mb-0">
+                            Todos os pedidos referentes ao Hospital Curry Cabral, em Lisboa.
+                        </p>
+                    </td>
+                    <td>
+                        <div>{{ curcabr }}</div>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-12 col-xl-3">
+            <aside>
+                <div class="row">
+                    <div class="col-12 col-sm-6 col-xl-12">
+                        <div class="card mb-3 mb-sm-0 mb-xl-3">
+                            <div class="card-body">
+                                <h2 class="h4 card-title">Links Importantes</h2>
+                                <ul class="list-unstyled mb-0">
+                                    <li><a href="https://www.dgs.pt" target="_blank">DGS</a></li>
+                                    <li><a href="https://www.publico.pt" target="_blank">Notícias no site do Publico</a></li>
+                                    <li><a href="https://covid19estamoson.gov.pt" target="_blank">Site Estamos ON / COVID </a></li>
+                                    <li><a href="https://jornaleconomico.sapo.pt/noticias/covid-19-10-hospitais-preparados-para-receber-casos-em-portugal-555413" target="_blank">
+                                        Em que hospitais atuamos</a>
+                                    </li>
+                                    <li><a href="{% url 'website:index' %}">Voltar para a página principal do site</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer class="small bg-dark text-white">
+    <div class="container py-4">
+        <ul class="list-inline mb-0 text-center">
+            <li class="list-inline-item">&copy; 2017 Web Company, Inc.</li>
+            <li class="list-inline-item">&copy; Trabalho realizado por Jorge Amorim</li>
+            <li class="list-inline-item">&copy; N.º 82911 - Grupo 8 - LEI-PL</li>
+            <li class="list-inline-item">All rights reserved.</li>
+            <li class="list-inline-item">Terms of use and privacy policy</a>.</li>
+        </ul>
+    </div>
+</footer>
+</body>
+</html>

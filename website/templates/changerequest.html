@@ -1,0 +1,68 @@
+{% extends '../old/forumv2.html' %}
+{% load static %}
+<link href="{% static 'css/changerequest.css' %}" rel="stylesheet" />
+{% block title %}<title>Alterar pedido</title>{% endblock %}
+{% block content %}
+    <table border="0" cellspacing="0" cellpadding="4" class="tborder">
+        <thead>
+        {% for req in pedido %}
+            <tr>
+            <td class="thead" colspan="5">
+              <div>
+                <strong>Pedido {{ req.id }}</strong><br />
+                <div class="smalltext"></div>
+              </div>
+                <div class="smalltext" align="right"><a href="{% url 'website:answers' %}">
+                    Resolver pedido/Responder
+                </a></div>
+            </td>
+          </tr>
+        </thead>
+        <tbody style="" id="cat_1_e">
+            <tr>
+                <td class="tcat" width="5"><span class="smalltextohne"><strong>Numero</strong></span></td>
+                <td class="tcat" width="5"><span class="smalltextohne"><strong>Utilizador</strong></span></td>
+                <td class="tcat" width="285" align="center" style="white-space: nowrap"><span class="smalltext"><strong>Mensagem</strong></span></td>
+                <td class="tcat" width="45" align="center" style="white-space: nowrap"><span class="smalltext"><strong>Ventilador</strong></span></td>
+                <td class="tcat" width="45" align="center" style="white-space: nowrap"><span class="smalltext"><strong>Status</strong></span></td>
+            </tr>
+        </tbody>
+            <tr>
+                <td  class="trow1" width="1"> 1
+                </td>
+                <td class="trow1" width="5">
+                  <div>User JOTA</div>
+                </td>
+                <td class="trow1" width="285" align="center" style="white-space: nowrap">{{ req.messages }}</td>
+                <td class="trow1" width="45" align="center" style="white-space: nowrap">{{ req.ventilador}}</td>
+                <td class="trow1" width="45" align="center" style="white-space: nowrap">{{ req.status }}</td>
+              </tr>
+
+    </table><br><br>
+    <table border="0" cellspacing="0" cellpadding="1" class="tborder">
+        <thead>
+            <tr>
+                <td class="thead" colspan="2">
+                    <div align="center">
+                        <strong>
+                            Adicione aqui o seu comentário por forma a ajudar quem mais precisa:
+                        </strong>
+                    </div>
+                </td>
+            </tr>
+        </thead>
+        <tbody style="" id="cat_1_e">
+            <form action="{% url 'website:changerequest' req.id%}" method="post">
+                {% csrf_token %}
+                <tr>
+                    <td class="thead" colspan="5">
+                        <input><textarea name="messages" id="messages" rows="4" cols="170">
+                        </textarea><br>
+                        <input type="submit" value="Submit" align="center">
+                    </td>
+                </tr>
+            </form>
+        </tbody>
+    {% endfor %}
+    </table>
+{% endblock %}
