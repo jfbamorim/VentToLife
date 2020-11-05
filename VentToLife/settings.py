@@ -123,17 +123,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-EMAIL_USE_TLS = True
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_PASSWORD = 'xpto' #a minha password
-EMAIL_HOST_USER = 'jfbam@iscte-iul.pt' #o meu email
-EMAIL_PORT = 587
-DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
-
-
-RECAPTCHA_PUBLIC_KEY = '6LenGvMUAAAAALfHxZdqcyBPwhsZtQIOjM-OwciQ'
-RECAPTCHA_PRIVATE_KEY = '6LenGvMUAAAAAJValvTb4CwDQ3wx5eVUwoP-Xk2Q'
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 # Recursos extra para segurança da Aplicação Django
